@@ -1,8 +1,14 @@
+#Double J 
+
 #!/usr/bin/env python3
 import os
 import sys
 import random
 import pygame
+
+
+
+
 
 # --- Config ---
 CELL_SIZE   = 24
